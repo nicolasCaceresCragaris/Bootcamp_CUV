@@ -1,0 +1,56 @@
+
+@keyframes mover {
+    0% { transform: translateX(0); } /* Estado inicial: no se mueve */
+    50% { transform: translateX(200px); } /* Mueve 200px a la derecha */
+    100% { transform: translateX(0); } /* Regresa al estado inicial */
+}
+
+.pancho {
+  
+    animation: mover 2s ease-in-out infinite; /* Aplicar la animación */
+}
+
+
+.pan {
+    background-color: moccasin;
+    margin: 0 auto;
+    height: 90px;
+    width: 65%;
+   
+    
+}
+
+#arriba.pan {
+    margin-top: 100px; /* Usando px para píxeles */
+    margin-bottom: -50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-width: 12px; /* Definir el ancho del borde inferior */
+    border-bottom-style: solid; /* Definir el estilo del borde inferior */
+    border-bottom-color:darkgoldenrod;
+
+}
+
+#abajo.pan {
+    margin-bottom: 100px; /* Usando px para píxeles */
+    margin-top:0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-width: 12px; /* Definir el ancho del borde superior */
+    border-top-style: solid; /* Definir el estilo del borde superior */
+    border-top-color: darkgoldenrod;
+}
+
+.salchi{
+    background-color: #b22222;
+    margin:0px auto;
+    margin-top:50px;
+    margin-left:280px;
+    margin-right: 280px;
+    height: 80px;
+    border-radius:10cm;
+}

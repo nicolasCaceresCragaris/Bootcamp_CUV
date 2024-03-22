@@ -1,0 +1,56 @@
+
+
+
+*{
+    background-color:cornflowerblue;
+}
+
+/*ESTILOS DE LA PAGINA PRINCIPAL*/
+
+ h1{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color: green;
+    color:green;
+
+}
+
+ p{
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+}
+
+ img{
+
+    
+    margin-left: 65px;
+    margin-bottom: 40px;
+    border-radius:15px ;
+    border-style:ridge;
+    border-width: 5px;
+    border-color: black;
+}
+
+ button{
+    
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-left:500px;
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    height: 100px;
+}
+
+/*ESTILOS DE LA OPCION A*/
+
+
+#devolver img{
+
+    width: 100px;
+    
+}

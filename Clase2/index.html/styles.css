@@ -1,0 +1,25 @@
+
+
+div{
+    background-color:darkolivegreen ;
+}
+
+h3{
+    background-color: coral;
+}
+
+div p{
+    font-size:10px;
+}
+
+
+
+h2:hover{
+    color:chocolate;
+}
+
+/*Clases */
+
+.parrafo{
+    border:0.1em dashed blueviolet;
+}
