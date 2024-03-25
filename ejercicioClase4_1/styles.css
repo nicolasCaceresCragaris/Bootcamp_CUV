@@ -45,8 +45,8 @@ textarea{
 .contenedor iframe{
     margin-top: 2%;
     margin-left: 2%;
-    border: 2px solid #000; /* Define el borde del iframe */
-    border-radius: 10px; /* Establece el radio de borde */
+    border: 2px solid #000; 
+    border-radius: 10px;
     overflow:hidden;
     
 }
