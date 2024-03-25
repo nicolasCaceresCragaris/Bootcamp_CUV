@@ -31,9 +31,11 @@ textarea{
     margin-top: 1.5%;
 }
 
-iframe{
+.contenedor{
     display:flex;
-    margin: 0 auto;
-    border: 1px solid black;
-   
+    margin-left:3%;
+}
+
+.contenedor iframe{
+    margin-left: 2%;
 }
