@@ -1,0 +1,39 @@
+
+*{
+    background-color: rgb(184, 200, 206);
+}
+
+h1{
+    color:rgb(62, 55, 163);
+    text-align: center;
+    text-decoration:underline;
+    
+    font-family:fantasy;
+}
+
+
+label{
+
+    display:block;
+    text-align: center;
+    margin-top:4%;
+    margin-bottom: 2%;
+}
+
+input{
+    border-color: rgb(7, 69, 193);
+}
+
+textarea{
+    
+    display:flex;
+    margin:0 auto;
+    margin-top: 1.5%;
+}
+
+iframe{
+    display:flex;
+    margin: 0 auto;
+    border: 1px solid black;
+   
+}
