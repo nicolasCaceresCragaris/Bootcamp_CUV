@@ -1,0 +1,38 @@
+
+div{
+    height: 150px;
+    border: solid #092454 3px;
+}
+
+
+#uno{
+    background-color: blue;
+    position:static;
+
+}
+
+#dos{
+    background-color: green;
+    position:relative;
+
+}
+
+#tres{
+    background-color: yellow;
+    position:fixed;
+ 
+}
+
+#cuatro{
+    background-color: blueviolet;
+    position:relative;
+}
+
+#cinco{
+    background-color: #d4c200;
+    width: 25%;
+    height: 25%;
+    position:absolute;
+    top:30px;
+    left:15px;
+}
