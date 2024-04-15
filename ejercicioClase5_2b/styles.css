@@ -1,0 +1,25 @@
+
+
+
+h1{
+    font-family: "Playfair Display";
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-style:normal;
+    
+    text-transform:uppercase;
+    text-align: left;
+    
+    border-bottom: 2px red solid;
+
+    width: 30%;
+    padding-bottom: 0.3%;
+  }
+
+  .gallery{
+    display:flex;
+    flex-wrap: wrap;
+
+    border: 2px blue solid;
+
+  }
